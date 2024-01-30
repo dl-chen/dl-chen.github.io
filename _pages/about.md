@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Welcome to my personal portfolio!
+subtitle: Nice to meet you!
 
 profile:
   align: right
@@ -19,8 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Dedicated professional with almost 5 years of experience as a Cloud Support Engineer. Skilled in evaluating client requirements and implementing effective IT solutions. Adaptable and detail-oriented, with a strong record in team collaboration and project leadership, recognized for leading several successful team projects and being a top case closer in North America.
+Hello there! I'm a dedicated professional with nearly five years of experience in the world of cloud support engineering. I've got a knack for understanding client needs and turning them into effective IT solutions. I'm adaptable, detail-oriented, and thrive in team settings. My experience includes leading multiple successful projects and I'm proud to have been recognized as one of the top case closers in North America. I'm passionate about leveraging my skills in collaboration and leadership to make a positive impact in the technology field.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Outside of work, my biggest passion in life currently is rock climbing. There is something so gratifying, yet humbling about the sport that keeps me motivated to keep coming back and conquering new challenges. I love that it is as much of a mental sport as it is physical, demanding careful problem-solving and focus in addition to physical strength and endurance. As of now, most of my time is spent in indoor gyms, but I have just started my journey in outdoor climbing and I hope to make it a lifelong one. If you want to learn more about my other interests, please see my hobbies page. 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
