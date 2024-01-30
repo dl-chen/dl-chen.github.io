@@ -8,18 +8,7 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+For me, rock climbing is a passion that challenges both my body and mind. There's something uniquely exhilarating about scaling heights and navigating routes, where every climb is a new puzzle to solve. It's not just about physical strength; it's equally about strategy, planning, and mental toughness. The sport teaches me patience, resilience, and the importance of precise movements. Each ascent is a journey, offering a sense of accomplishment and a thrilling perspective from the top. Beyond the climb, the rock climbing community is a source of inspiration and camaraderie, where sharing experiences and tips is part of the adventure. This hobby is a perfect escape from the routine, providing a balance of adrenaline and tranquility, and constantly pushing me to new heights.
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
@@ -29,17 +18,6 @@ To give your project a background in the portfolio page, just add the img tag to
     {% include figure.liquid path="assets/img/climbing.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-
-```
-
-{% endraw %}
+<div class="caption">
+    Photos taken recently from a trip I made to the Colorado Rocky Mountains. Unfortunately, I did not bring my climbing shoes for this hike, so all attempts were made in my hiking shoes 😅
+</div>
