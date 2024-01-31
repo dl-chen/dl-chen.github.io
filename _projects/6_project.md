@@ -1,7 +1,6 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Digital Art
 img:
 importance: 4
 category: fun
