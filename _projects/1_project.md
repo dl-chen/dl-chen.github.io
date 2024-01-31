@@ -2,13 +2,13 @@
 layout: page
 title: Rock Climbing
 # description: a project with a background image
-img: assets/img/12.jpg
+img: assets/img/mountain2.jpg
 importance: 1
 category: work
 related_publications: false
 ---
 
-For me, rock climbing is a passion that challenges both my body and mind. There's something uniquely exhilarating about scaling heights and navigating routes, where every climb is a new puzzle to solve. It's not just about physical strength; it's equally about strategy, planning, and mental toughness. The sport teaches me patience, resilience, and the importance of precise movements. Each ascent is a journey, offering a sense of accomplishment and a thrilling perspective from the top. Beyond the climb, the rock climbing community is a source of inspiration and camaraderie, where sharing experiences and tips is part of the adventure. This hobby is a perfect escape from the routine, providing a balance of adrenaline and tranquility, and constantly pushing me to new heights.
+For me, rock climbing is a passion that challenges both my body and mind. There's something uniquely exciting about scaling a wall and navigating routes, where every climb is a new puzzle to solve. It's a sport that makes me feel like a kid again, and really encourages those intrusive thoughts I have to climb anything and everything in sight. Every ascent is a journey, and there is no better feeling than sending a project you have invested so many hours in. Even when I leave the gym, I often find myself imagining the problems in my head, thinking of all the different possibilities I can try for next time. Beyond the climb, the rock climbing community is a source of inspiration and camaraderie, where sharing experiences and tips is part of the adventure. This hobby is a perfect escape from the routine, providing a balance of adrenaline and tranquility, and constantly pushing me to new heights.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
