@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Soccer
-img: assets/img/3.jpg
+img: assets/img/soccer.jpg
 importance: 2
 category: work
 ---

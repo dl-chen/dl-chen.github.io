@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chess
-img: assets/img/7.jpg
+img: assets/img/chess.jpg
 importance: 3
 category: work
 ---

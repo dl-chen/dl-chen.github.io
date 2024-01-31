@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tea Brewing
-img: assets/img/1.jpg
+img: assets/img/tea.jpg
 importance: 3
 category: fun
 ---
