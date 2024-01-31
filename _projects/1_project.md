@@ -22,5 +22,5 @@ For me, rock climbing is a passion that challenges both my body and mind. There'
     </div>
 </div>
 <div class="caption">
-    Photos taken recently from a trip I made to the Colorado Rocky Mountains. Unfortunately, I did not bring my climbing shoes for this hike, so all attempts were made in my hiking shoes 😅
+    Compilation of some of my favorite climbing moments. The photo on the left shows me working on one of my gym projects. The middle photo was taken from a trip in Colorado and the photo on the right is from my first climbing trip outdoors :)
 </div>
