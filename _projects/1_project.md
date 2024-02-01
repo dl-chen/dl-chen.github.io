@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rock Climbing
-img: assets/img/mountain2.jpg
+img: assets/img/rockclimbing.jpg
 importance: 1
 category: work
 ---

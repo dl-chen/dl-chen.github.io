@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cooking
-img: assets/img/cooking1.jpg
+img: assets/img/cooking.jpg
 importance: 3
 category: work
 ---

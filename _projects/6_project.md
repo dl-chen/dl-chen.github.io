@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Digital Art
-img:
+img: assets/img/digitalart.jpg
 importance: 4
 category: work
 ---
