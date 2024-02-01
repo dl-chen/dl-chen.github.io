@@ -3,7 +3,7 @@ layout: page
 title: Digital Art
 img:
 importance: 4
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

@@ -3,7 +3,7 @@ layout: page
 title: Tea Brewing
 img: assets/img/tea.jpg
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
