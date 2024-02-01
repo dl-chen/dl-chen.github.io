@@ -3,7 +3,7 @@ layout: page
 title: Cooking
 img: assets/img/cooking1.jpg
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
