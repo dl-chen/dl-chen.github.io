@@ -6,7 +6,7 @@
     "email": "danielcc70@gmail.com",
     "phone": "(443) 750-0219",
     "location": "Durham, NC",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "",
     "profiles": [
       {
         "network": "Twitter",
@@ -17,24 +17,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Cloud Support Engineer",
+      "position": "IBM in Durham, NC",
+      "url": "",
+      "startDate": "2019-06-19",
+      "endDate": "Present",
+      "summary": "In my role at IBM, I supported an extensive array of IBM Cloud services, including API Connect, Blockchain, Kubernetes, Continuous Delivery, Code Engine, Cloud Monitoring, Mezmo, and Activity Tracker within ServiceNow. This role not only demonstrated my broad technical skill set but also contributed significantly to enhancing the efficiency of cloud technology. I effectively collaborated with customers to assess and understand their cloud infrastructure needs, a skill that led me to become a top case closer in North America, consistently earning high customer satisfaction ratings. My involvement in cross-functional team collaborations was pivotal in resolving complex technical challenges, highlighting my strong problem-solving abilities and deep commitment to customer success. Furthermore, I provided technical leadership on numerous projects, steering teams towards successful outcomes and reaching critical project milestones, thereby reinforcing our team's capacity to meet and exceed project goals.",
+      "highlights": ["Cloud Computing", "APIs", "Application Development", "Technical Support", "Customer Service"]
     }
   ],
   "education": [
