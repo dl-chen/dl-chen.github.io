@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Hobbies
+title: Hobbies
 permalink: /projects/
 description: A growing collection of some of my favorite past times.
 nav: true
