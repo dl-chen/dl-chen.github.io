@@ -5,8 +5,15 @@
     "image": "",
     "email": "danielcc70@gmail.com",
     "phone": "(443) 750-0219",
-    "location": "Durham, NC",
+    "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
     "profiles": [
       {
         "network": "Twitter",
@@ -23,7 +30,7 @@
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Cloud Computing", "APIs", "Application Development", "Technical Support", "Customer Service"]
+      "highlights": ["Relativity"]
     }
   ],
   "volunteer": [
