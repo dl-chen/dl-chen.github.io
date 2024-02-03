@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "About Me": {
     "name": "Daniel Chen",
     "label": "",
     "image": "",
@@ -22,7 +22,7 @@
       }
     ]
   },
-  "work": [
+  "Experience": [
     {
       "name": "IBM in Durham, NC",
       "position": "Cloud Support Engineer (AppDev Team)",
