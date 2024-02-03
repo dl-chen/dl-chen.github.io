@@ -49,8 +49,8 @@
       "url": "",
       "area": "Information Science",
       "studyType": "Bachelor of Science",
-      "startDate": "2015-08-25",
-      "endDate": "2019-05-15",
+      "startDate": "2015",
+      "endDate": "2019",
       "score": "",
       "courses": [""]
     }
@@ -58,7 +58,7 @@
   "awards": [
     {
       "title": "SAPA Hopkins",
-      "date": "2019",
+      "date": "",
       "awarder": "The Hopkins Club for Innovation and Entrepreneurship",
       "url": "",
       "summary": "Received first place in biohealth innovation for the conceptualization of our application, which was designed to help users make rational decisions about healthcare by employing complex analyses of big medical data.'"
