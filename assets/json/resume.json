@@ -31,6 +31,15 @@
       "endDate": "Pres",
       "summary": "At IBM, I boosted cloud service efficiency, becoming a top case closer in North America while delivering exceptional customer satisfaction. My problem-solving and leadership drove projects beyond their goals, demonstrating my dedication to success.",
       "highlights": ["Cloud Computing", "APIs", "Application Development", "Technical Support", "Customer Service"]
+    },
+    {
+      "name": "LINKMedicine in Balimore, MD",
+      "position": "Software Developer",
+      "url": "",
+      "startDate": "2017-06-17",
+      "endDate": "2019-06-19",
+      "summary": "At LINKMedicine, I developed WeChat mini program prototypes and webpages, improving user experience and aligning with branding, thereby enhancing digital engagement.",
+      "highlights": ["Javascript, HTML5, CSS", "Java, XML, Angular", "Agile Development", "Frameworks and Prototyping", "Android Studio"]
     }
   ],
   "volunteer": [
