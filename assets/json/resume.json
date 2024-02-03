@@ -36,8 +36,8 @@
       "name": "LINKMedicine in Balimore, MD",
       "position": "Software Developer",
       "url": "",
-      "startDate": "2017-06-17",
-      "endDate": "2019-06-19",
+      "startDate": "2017",
+      "endDate": "2019",
       "summary": "At LINKMedicine, I developed WeChat mini program prototypes and webpages, improving user experience and aligning with branding, thereby enhancing digital engagement.",
       "highlights": ["Javascript, HTML5, CSS", "Java, XML, Angular", "Agile Development", "Frameworks and Prototyping", "Android Studio"]
     }
@@ -52,7 +52,7 @@
       "startDate": "2015",
       "endDate": "2019",
       "score": "",
-      "courses": [""]
+      "courses": ""
     }
   ],
   "awards": [
