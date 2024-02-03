@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Daniel Chen",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "danielcc70@gmail.com",
+    "phone": "(443) 750-0219",
+    "url": "",
+    "summary": "Versatile Cloud Support Engineer with 6+ years in technical roles",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,13 +24,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "IBM in Durnam, NC",
+      "position": "Cloud Support Engineer (AppDev Team)",
+      "url": "",
+      "startDate": "2019-06-19",
+      "endDate": "Now",
+      "summary": "At IBM, I boosted cloud service efficiency, becoming a top case closer in North America while delivering exceptional customer satisfaction. My problem-solving and leadership drove projects beyond their goals, demonstrating my dedication to success.",
+      "highlights": ["Cloud Computing", "APIs", "Application Development", "Technical Support", "Customer Service"]
     }
   ],
   "volunteer": [
