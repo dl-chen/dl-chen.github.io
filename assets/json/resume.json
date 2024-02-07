@@ -45,7 +45,7 @@
   "projects": [
     {
       "name": "Team Wiki, Project Lead",
-      "summary": "I spearheaded the creation of a comprehensive knowledge base designed to document processes and bolster team self-sufficiency. I gathered critical information, including common service issues, troubleshooting guides, support enablement procedures, and best practices. This information was then organized into individual service pages, ensuring quick access and enhanced usability for the team. In addition, I actively encouraged team participation and integrated a feedback form into the website. This initiative not only facilitated continuous improvement of the wiki but also fostered a collaborative environment where team input was valued and utilized to optimize our collective knowledge base.",
+      "summary": "I led the development of a knowledge base to enhance team self-sufficiency, compiling key information such as service issues, troubleshooting, and best practices into easily accessible service pages. I also promoted team involvement and added a feedback form to the site, fostering a culture of continuous improvement and collaboration that significantly optimized our collective knowledge.",
       "highlights": ["Knowledgebase Creation", "Technical Writing", "Web Design", "Leadership"],
       "startDate": "2023-06",
       "endDate": "Pres",
@@ -53,7 +53,7 @@
     },
     {
       "name": "Service Level Objective Analysis, Project Lead",
-      "summary": "I undertook a detailed compilation and analysis of data for tickets that failed to meet our first response time objectives, identifying the root causes of these misses and formulating a strategic plan to mitigate them. This involved leading weekly team meetings where we delved into the analyses and collaborated on implementing solutions to enhance our workflow efficiency. Our efforts saw the team's average attainment rate increase from 80% to over 95% within just a year of initiating this project, showcasing our ability to significantly improve performance through focused teamwork and strategic planning.",
+      "summary": "I conducted a comprehensive analysis on tickets missing our first response goals, pinpointing root causes and developing strategies to address them. Through leading weekly team meetings focused on implementing these solutions, we boosted our workflow efficiency, increasing our average attainment rate from 80% to over 95% within a year, demonstrating significant performance improvement through strategic teamwork.",
       "highlights": ["Service Level Objective", "Data Analysis", "Leadership"],
       "startDate": "2021-04",
       "endDate": "2023-06",
