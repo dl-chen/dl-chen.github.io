@@ -44,12 +44,20 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Team Wiki, Project Lead",
+      "summary": "I spearheaded the creation of a comprehensive knowledge base designed to document processes and bolster team self-sufficiency. I gathered critical information, including common service issues, troubleshooting guides, support enablement procedures, and best practices. This information was then organized into individual service pages, ensuring quick access and enhanced usability for the team. In addition, I actively encouraged team participation and integrated a feedback form into the website. This initiative not only facilitated continuous improvement of the wiki but also fostered a collaborative environment where team input was valued and utilized to optimize our collective knowledge base.",
+      "highlights": ["Knowledgebase Creation", "Technical Writing", "Web Design", "Leadership"],
+      "startDate": "2023-06",
+      "endDate": "Pres",
+      "url": ""
+    },
+    {
+      "name": "Service Level Objective Analysis, Project Lead",
+      "summary": "I undertook a detailed compilation and analysis of data for tickets that failed to meet our first response time objectives, identifying the root causes of these misses and formulating a strategic plan to mitigate them. This involved leading weekly team meetings where we delved into the analyses and collaborated on implementing solutions to enhance our workflow efficiency. Our efforts saw the team's average attainment rate increase from 80% to over 95% within just a year of initiating this project, showcasing our ability to significantly improve performance through focused teamwork and strategic planning.",
+      "highlights": ["Service Level Objective", "Data Analysis", "Leadership"],
+      "startDate": "2021-04",
+      "endDate": "2023-06",
+      "url": ""
     }
   ],
   "awards": [
