@@ -42,17 +42,14 @@
       "highlights": ["Javascript, HTML5, CSS", "Java, XML, Angular", "Agile Development", "Frameworks and Prototyping", "Android Studio"]
     }
   ],
-  "education": [
+  "projects": [
     {
-      "institution": "University of Maryland, College Park",
-      "location": "",
-      "url": "",
-      "area": "Information Science",
-      "studyType": "Bachelor of Science",
-      "startDate": "2015-08",
-      "endDate": "2019-05",
-      "score": "",
-      "courses": ""
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
     }
   ],
   "awards": [
@@ -64,73 +61,17 @@
       "summary": "Received first place in biohealth innovation for the conceptualization of our application, which was designed to help users make rational decisions about healthcare by employing complex analyses of big medical data. Our concept beat more than 15 other teams, winning 34.7% of the total votes in an annual forum with more than 1000 participants, including multinational pharmaceutical companies, investment firms, and research institutions.'"
     }
   ],
-  "certificates": [
+  "education": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "institution": "University of Maryland, College Park",
+      "location": "",
+      "url": "",
+      "area": "Information Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2015-08",
+      "endDate": "2019-05",
+      "score": "",
+      "courses": ""
     }
   ]
 }

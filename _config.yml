@@ -455,13 +455,6 @@ jekyll_get_json:
 jsonresume:
   - About Me
   - Experience
-  - education
-  - publications
   - projects
-  - volunteer
   - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - referencesss
+  - education
